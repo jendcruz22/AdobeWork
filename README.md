@@ -10,4 +10,3 @@ This website is deployed and can be viewed [here](https://adobework.netlify.app/
 * The [css](https://github.com/jendcruz22/AdobeWork/tree/master/css) folder holds all the css files used for styling the website.
 * The [fonts](https://github.com/jendcruz22/AdobeWork/tree/master/fonts) folder has all the downloaded fonts for the website like flaticon and fontawesome.
 * [js]() folder consists of all the JavaScript and jQuery files used to make the website.
-* 
